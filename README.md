@@ -12,6 +12,8 @@ Specializing in bows, crossbows, or pump-action weapons has limited support in t
 
 ## Download & Install
 
+You can download the mod from my [Website](https://mahpella.com/games/way-of-the-hunter/mods/weapon-skill-expansion) or [Nexus Mods](https://www.nexusmods.com/wayofthehunter/mods/33).
+
 ### Step 1. Create a backup (optional)
 
 If you wish, copy the Saved folder to another location:  
